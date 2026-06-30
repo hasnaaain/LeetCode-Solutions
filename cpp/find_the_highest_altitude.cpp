@@ -3,7 +3,7 @@
 // Language: cpp
 // Link: https://leetcode.com/problems/find-the-highest-altitude/
 // Synced by: LinkCode
-// Date: 6/30/2026, 5:48:37 PM
+// Date: 6/30/2026, 5:48:46 PM
 // ======================================
 
 
