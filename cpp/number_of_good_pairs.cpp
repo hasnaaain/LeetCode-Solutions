@@ -3,7 +3,7 @@
 // Language: cpp
 // Link: https://leetcode.com/problems/number-of-good-pairs/
 // Synced by: LinkCode
-// Date: 7/12/2026, 9:55:01 PM
+// Date: 7/12/2026, 9:55:46 PM
 // ======================================
 
 
